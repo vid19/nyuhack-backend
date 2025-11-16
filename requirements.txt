@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlmodel
+passlib[bcrypt]
+python-multipart==0.0.6
+pydantic==1.10.12
+aiofiles==23.1.0
+torch==2.4.1            
+torchaudio==2.4.1     
+librosa==0.10.0         
+soundfile==0.12.1
+psycopg2-binary==2.9.7
+cloud-sql-python-connector
+pymysql
+sqlalchemy
+
